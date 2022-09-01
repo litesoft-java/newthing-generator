@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class NewThingImplTest {
+
     @Test
     void testGetters() {
         NewThing org = new NewThingImpl();
